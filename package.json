@@ -1,4 +1,7 @@
 {
+  "name": "acme-app",
+  "version": "1.0.0",
+  "description": "An example of a Next.js app with Tailwind CSS",
   "private": true,
   "scripts": {
     "build": "next build",
